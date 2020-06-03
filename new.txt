@@ -1,2 +1,3 @@
-guriga 0
+guriga valami
+
 
